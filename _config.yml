@@ -1,0 +1,11 @@
+# Site settings
+title: Nelson!
+email: davrodpin@gmail.com
+description: 
+baseurl: ""
+url: "http://davrodpin.github.io"
+twitter_username: hurlon
+github_username:  davrodpin
+
+# Build settings
+markdown: kramdown
